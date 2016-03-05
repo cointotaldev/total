@@ -1,0 +1,31 @@
+root@15526:~# cat alertkey.hex
+Private-Key: (256 bit)
+priv
+    2c21d4f61428e0fe04acecb018d80cb29aa1267fd12bd862bb0455a777a73bcf
+pub
+    040ac2c7b2bd2313c7564b78595677455f51d3d0dcbf9e2c82737f0e4b4bb7df9de74e1bd87c170ee659357c8b4f0fe44e887dadb6528a303aaa609a680ea6a526
+ASN1 OID secp256k1
+-----BEGIN EC PRIVATE KEY-----
+MHQCAQEEICwh1PYUKOD+BKzssBjYDLKaoSZ/0SvYYrsEVad3pzvPoAcGBSuBBAAK
+oUQDQgAECsLHsr0jE8dWS3hZVndFX1HT0Ny/niyCc38OS0u3353nThvYfBcO5lk1
+fItPD+ROiH2ttlKKMDqqYJpoDqalJg==
+-----END EC PRIVATE KEY-----
+root@15526~#
+
+
+
+
+root@15526~# cat testnetalert.hex
+Private-Key (256 bit)
+priv
+    00ca9867d5ea6dc8d67da502dcfffac395a7a2508dff2fb31b3c6b25e26a02db0d
+pub
+    04c8d2c9c56db217ed26b4b9980113b6522ddbbcbe7c520dee99e5fb706092dcf10a37f73b0c56c8bad8a729017cbb6c6335091761d888852fdc10fce6277067ea
+ASN1 OID secp256k1
+-----BEGIN EC PRIVATE KEY-----
+MHQCAQEEIMqYZ9XqbcjWfaUC3P/6w5WnolCN/y+zGzxrJeJqAtsNoAcGBSuBBAAK
+oUQDQgAEyNLJxW2yF+0mtLmYARO2Ui3bvL58Ug3umeX7cGCS3PEKN/c7DFbIutin
+KQF8u2xjNQkXYdiIhS/cEPzmJ3Bn6g==
+-----END EC PRIVATE KEY-----
+root@15526~#
+

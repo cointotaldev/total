@@ -1,0 +1,9 @@
+Building TotalCoin
+
+See doc/readme-qt.rst for instructions on building TotalCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TotalCoin.
+
+See doc/build-*.txt for instructions on building TotalCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of TotalCoin.
